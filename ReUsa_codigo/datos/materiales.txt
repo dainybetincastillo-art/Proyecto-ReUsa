@@ -1,0 +1,3 @@
+m01|12|ma|guia|bueno|12|biblioteca|intercambiado|5/772029
+m03|12|es|guia|bueno|23|biblioteca|disponible|3/372027
+m02|12|s|guia|bueno|23|biblioteca|disponible|1/2/2
